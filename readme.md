@@ -1,1 +1,3 @@
-Welcome to my Fullstack Project 
+Welcome to my Fullstack Project.
+
+My name is George.
